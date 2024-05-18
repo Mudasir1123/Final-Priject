@@ -1,0 +1,39 @@
+.main{
+    height: 527px;
+}
+.follow{
+    display: flex;
+    justify-content: space-around;
+}
+
+.button{
+    background-color: white;
+    border:none; 
+    border-radius: 20px;
+    width: 100px;
+    color: #1DA1F2;
+}
+
+.button1{
+    background-color: white;
+    border:2px solid #1DA1F2; 
+    border-radius: 20px;
+    width: 100px;
+    color: #1DA1F2;
+}
+
+.button:hover{
+    background-color: #1DA1F2;
+    border:2px solid #1DA1F2; 
+    border-radius: 20px;
+    width: 100px;
+    color: white;
+}
+
+.button1:hover{
+    background-color: #1DA1F2;
+    border:2px solid #1DA1F2; 
+    border-radius: 20px;
+    width: 100px;
+    color: white;
+}

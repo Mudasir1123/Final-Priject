@@ -1,0 +1,40 @@
+.tweet{
+    margin-top: 1rem;
+}
+
+.button{
+    background-color: white;
+    border:2px solid #1DA1F2; 
+    border-radius: 20px;
+    width: 75px;
+    color: #1DA1F2;
+    margin-left: 10px;
+}
+
+.button:hover{
+    background-color: #1DA1F2;
+    border:2px solid #1DA1F2; 
+    border-radius: 20px;
+    width: 100px;
+    color: white;
+    transition: 1s ease-out;
+}
+
+.username{
+    display: flex;
+}
+
+
+
+.main1{
+    justify-content: end;
+    display: flex;
+}
+
+.name{
+    display: flex;
+}
+
+.main{
+    width: 100%;
+}

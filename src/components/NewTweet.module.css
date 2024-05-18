@@ -1,0 +1,14 @@
+
+.tweet1 {
+    display: flex;
+}
+
+.button {
+    background-color: #1DA1F2;
+    border: 2px solid#1DA1F2;
+    border-radius: 20px;
+    width: 74px;
+    color: #ffffff;
+    display: flex;
+    margin-top: 0.2rem;
+}

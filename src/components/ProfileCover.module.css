@@ -1,0 +1,12 @@
+.coverphoto{
+    border: 3px solid #e3eaee;
+}
+
+
+/* @media screen and (min-width:1440px) and (max-width:2560px) {
+    .cover {
+        border: 5px solid blue;
+        position: absolute;
+        bottom: 0px;
+    }
+} */

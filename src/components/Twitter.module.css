@@ -1,0 +1,14 @@
+.twitter {
+    border: 2px solid;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 100px;
+    left: 120px;
+}
+
+
+.image {
+    border: 2px solid;
+    position: absolute;
+    bottom: 110px;
+}

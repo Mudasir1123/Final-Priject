@@ -1,0 +1,11 @@
+.info{
+    height: 527px;
+}
+
+.button{
+    border: 2px solid#1DA1F2 ;
+    border-radius: 20px;
+    width: 200px;
+    color: #ffffff;
+    background-color: #1DA1F2;
+}
